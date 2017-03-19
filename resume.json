@@ -1,0 +1,184 @@
+{
+  "basics": {
+    "name": "Nathan Smith",
+    "label": "Senior Software Developer",
+    "picture": "",
+    "email": "nathasm@gmail.com",
+    "phone": "(518) 221-6576",
+    "website": "http://www.dotnathan.com",
+    "summary": "Passionate and driven software developer with experience in all facets of the software development lifecycle. Development has included a wide range of experience and skills from research and development, complex multiprocess distributed applications, and full stack web development. Experience with managing small to medium sized teams, project management, and working with a remote workforce",
+    "location": {
+      "address": "197 Woodcliff Circle",
+      "postalCode": "TN 37377",
+      "city": "Signal Mountain",
+      "countryCode": "US",
+      "region": "Tennessee"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "nathasm",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "nathasm",
+        "url": "http://github.com/nathasm"
+      },
+      {
+        "network": "Web",
+        "username": "",
+        "url": "http://www.dotnathan.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Thesys Technologies, LLC.",
+      "position": "Senior Software Developer",
+      "website": "http://www.thesystech.com",
+      "startDate": "2012-12",
+      "summary": "Thesys Technologies is on the forefront in financial technology. Recently awared the Consolidated Audit Trail project which aims to be the largest financial database in the world. Thesys also provides cutting edge software for risk checks, low latency matching engine, and high-frequencey trading API.",
+      "highlights": [
+        "Designed and developed full-stack (C++, ZMQ, NodeJS, AngularJS, and websockets) web application from the ground up to interact with new trading platform which encompassed 35k LOC, 6k tests, and 98% code coverage",
+        "Interface with customer to ensure product and usage meets or exceeds expectations",
+        "Implemented corporate style guide and component library for use in future products",
+        "Designed and implemented full software development life cycle using open-source tools to track progress, submit features/bugs, perform code reviews, and manage source control system",
+        "Manage project timeline and technical progress for a team of 7 developers. Report to management and customers on the progress, schedule demos at regular intervals, and deliver a successful product launch with 100% uptime"
+      ]
+    },
+    {
+      "company": "Cohortable, LLC.",
+      "position": "Senior Software Developer",
+      "startDate": "2014-12",
+      "endDate": "2016-01",
+      "summary": "Startup company focused on being a social network for small businesses helping them grow their customer base through cross promotion and sweepstakes",
+      "highlights": [
+        "Designed and implemented full stack application in Angular2 and NodeJS",
+        "Interfaced with mailchimp API to manage and track customer information for companies",
+        "Handled recruiting additinoal developer to handle additional software development tasks",
+        "Implmemented cloud deployment with Docker via AWS"
+      ]
+    },
+    {
+      "company": "Automated Trading Desk",
+      "position": "Software Team Lead",
+      "website": "http://www.atdesk.com",
+      "startDate": "2007-06",
+      "endDate": "2012-11",
+      "summary": "Data Distribution Team",
+      "highlights": [
+        "Co-author of facade design pattern API which separates underlying market data provider APIs and map to a well-defined publish/subscribe messaging API",
+        "Implementation and testing of low latency feed handler applications utilizing internal frameworks in C++",
+        "Designed new market data client API for Citi Equities global initiative",
+        "Implemented a lower latency serialization library which improves upon Google Protocol Buffers",
+        "Implemented automated build system integrated with source control system and bug tracking system",
+        "Evaluation of hardware solutions to improve existing system through network and server upgrades"
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "position": "Software Design Engineer in Test",
+      "website": "http://www.microsoft.com",
+      "startDate": "2005-08",
+      "endDate": "2007-06",
+      "summary": "Windows Networking and Devices Platform – Winsock",
+      "highlights": [
+        "Test and critique software components and interfaces with technical depth",
+        "Write C/C++ test programs to assure quality, and develop test tools to increase effectiveness through model-based, parameter, functional, and structural testing techniques",
+        "Utilizing Window’s automated test harness, authored jobs to automated full functional test pass for Winsock component",
+        "Developed stress infrastructure to verify health of Winsock component"
+      ]
+    },
+    {
+      "company": "General Electric",
+      "position": "Individual Contributor",
+      "website": "http://www.ge.com",
+      "startDate": "2001-06",
+      "endDate": "2005-07",
+      "summary": "Advanced Communications and Systems Lab",
+      "highlights": [
+        "Worked on medium-sized team focusing on Java implementation of active networks in a mobile ad-hoc network (MANET) environment",
+        "Designed and implemented novel transport layer protocol over ad hoc and large bandwidth/large delay networks within test bed environment",
+        "Innovated active priority queuing algorithms and multi-criteria QoS routing metrics in ad-hoc wireless active network",
+        "Worked on novel approach for integrating prediction as it relates to routing in a mobile ad-hoc network (MANET)",
+        "Utilized complexity techniques for semantically classifying various forms of network traffic",
+        "Worked full-time on several research rotations throughout the research center, while completing a masters degree in Computer Science"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rensselaer Polytechnic Institute",
+      "area": "Computer Science",
+      "studyType": "Masters",
+      "startDate": "2001-08",
+      "endDate": "2003-06",
+      "gpa": "4.0"
+    },
+    {
+      "institution": "Ohio University",
+      "area": "Computer Sciencei + Microbiology",
+      "studyType": "Bachelors",
+      "startDate": "1997-09",
+      "endDate": "2001-06",
+      "gpa": "4.0"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Patent awarded for nondestructive path planning algorithm for aircraft engine fan blades",
+      "date": "2002-03"
+    },
+    {
+      "title": "Patent awarded for QoS techniques in an active networking environment",
+      "date": "2004-10"
+    },
+    {
+      "title": "Patent awarded for store-and-forward algorithm for use in active networks",
+      "date": "2004-10"
+    }
+  ],
+  "publications": [
+    {
+      "name": "The Limits of Motion Prediction Support for Wireless Adhoc Networks",
+      "publisher": "International Conference on Wireless Networks",
+      "releaseDate": "2005-06"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Full Stack Developer",
+      "level": "Always Learning",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "AngularJS v1/v2"
+      ]
+    },
+    {
+      "name": "Ruby",
+      "level": "Master"
+    },
+    {
+      "name": "C++",
+      "level": "Always Learning"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Endurance Sports",
+      "keywords": [
+        "Cycling",
+        "Triathlons"
+      ]
+    }
+  ]
+}
